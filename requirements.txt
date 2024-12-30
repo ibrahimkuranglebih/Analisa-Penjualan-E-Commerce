@@ -1,6 +1,6 @@
 pandas
 streamlit
-matplotlib.pyplot
+matplotlib
 streamlit_shadcn_ui
 numpy
 seaborn
